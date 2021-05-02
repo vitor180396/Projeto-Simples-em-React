@@ -1,4 +1,4 @@
-# projeto
+# Projeto
 Projeto simples com login, forum, e calculadora.
 
 Adicionado via Yarn:
