@@ -1,7 +1,5 @@
-<h1>Kooha
-==============================================================================
+<h1>
 <center>Projeto Simples usando React Native</center>
-==============================================================================
 </h1>
 Projeto com login, forum, e calculadora.
 
