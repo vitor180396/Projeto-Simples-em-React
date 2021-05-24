@@ -1,7 +1,8 @@
+<h1>Kooha
 ==============================================================================
-# Projeto Simples usando React Native
+<center>Projeto Simples usando React Native</center>
 ==============================================================================
-
+</h1>
 Projeto com login, forum, e calculadora.
 
 Adicionado via Yarn:
