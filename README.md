@@ -1,9 +1,10 @@
 <div align="center">
 <h1>
-<center>Projeto Simples usando React Native</center>
+Projeto Simples usando React Native
 </h1>
 Projeto com login, forum, e calculadora.
 </div>
+
 Adicionado via Yarn:
 
 ` yarn add @react-navigation/native `
