@@ -15,3 +15,4 @@ Adicionado via Yarn:
 
 ` yarn add @react-navigation/material-top-tabs react-native-tab-view `
 
+`Beatriz doidona`
