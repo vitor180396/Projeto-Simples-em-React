@@ -2,7 +2,7 @@
 <h1>
 Projeto Simples usando React Native
 </h1>
-Projeto com login, forum, e calculadora.
+Projeto com login, forúm, e calculadora.
 </div>
 
 Adicionado via Yarn:
