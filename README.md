@@ -5,6 +5,10 @@ Projeto Simples usando React Native
 Projeto com login, forúm, e calculadora.
 </div>
 
+### Instalação
+
+- `git clone https://github.com/vitor180396/Projeto-Simples-em-React-Native.git`
+
 Adicionado via Yarn:
 
 ` yarn add @react-navigation/native `
